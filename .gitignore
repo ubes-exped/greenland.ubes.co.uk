@@ -1,3 +1,7 @@
+# This file specifies which files should be ignored by git.
+# Everything below "# Created by" was auto-generated.
+
+Gemfile.lock
 
 # Created by https://www.gitignore.io/api/vim,ruby,emacs,linux,macos,jekyll,windows
 # Edit at https://www.gitignore.io/?templates=vim,ruby,emacs,linux,macos,jekyll,windows
